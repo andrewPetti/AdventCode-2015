@@ -26,3 +26,13 @@ Day 7/\.vs/Day 7/v15/
 *.user
 
 Day 7/packages/boost\.1\.68\.0\.0/
+
+Day 7/\.vs/
+
+Day 7/x64/
+
+*.cache
+
+Day 7/Day 7\.VC\.db
+
+Day 7/Day 7\.VC\.VC\.opendb
